@@ -12,17 +12,17 @@ The script provides an automatic installation and uninstallation for compiling a
 Install time: 5-10 minutes
 
 **Build process:**
-1: Download and install necessary required libs for SDL and etc.
-2: Create folder openjazz or clone from github.
-3: Compile/install openjazz source port
-4: Download Jazz Jackrabbit Shareware and extract into root of openjazz folder.
-5: Create shortcut on Raspbian desktop or create JazzJackrabbit.sh file into Ports folder in RetroPie.
+1: Download and install necessary required libs for SDL2.
+2: Create folder julius or clone from github.
+3: Compile/install julius source port
+4: Copy Caesar 3 data into ports/caesar3 folder from Caesar 3 installation (GOG).
+5: Create shortcut on Raspbian desktop or create Caesar III.sh file into Ports folder in RetroPie.
 
 **In order to play:**
 Add all data files from your Caesar 3 installation folder to /home/pi/RetroPie/roms/ports/caesar3. This could be from the GOG version.
 
 **Notes:**
-This build works great. I have not see any bugs yet.
+This build works great. I have not seen any bugs yet.
 
 **Disclaimer:**
 This installation script is provided as is. Im not responsible for anything happening with your Raspberry Pi including corruption of SD card, Hardware damage. For support and help you can contact me here on RetroPie forums.
