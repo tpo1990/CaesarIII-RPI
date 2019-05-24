@@ -4,7 +4,7 @@ Caesar III for Raspberry Pi based on Julius source port
 **Caesar III - Julius source port**
 
 Due to Julius source port, Caesar III can now be built and run on our Raspberry Pi with the source port called "Julius". This port relies on SDL2 libs and is working in RetroPie.
-![JazzJackrabbit-RPI](https://raw.githubusercontent.com/tpo1990/JazzJackrabbit-RPI/master/Screenshots/2019-01-21-135654_1280x720_scrot.png)
+![CaesarIII-RPI](https://github.com/tpo1990/CaesarIII-RPI/blob/master/Screenshots/caesar3-1?raw=true)
 
 The game is fully playable.
 The script provides an automatic installation and uninstallation for compiling and building on Raspberry Pi and RetroPie.
